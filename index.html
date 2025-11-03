@@ -7,40 +7,53 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
-        .dropdown-content {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.3s ease-out;
-        }
-        @media (max-width: 768px) {
-    .mcq-container {
-        height: 300px;
-        font-size: 14px;
+    .dropdown-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease-out;
     }
-        }
-        .dropdown-open {
-            max-height: 5000px;
-            transition: max-height 0.8s ease-in;
-        }
-        .definition-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        }
-        /* Add this CSS to make the container scrollable */
-.mcq-container {
-    /* Remove fixed height and let content determine height */
-    height: auto; 
-    overflow-y: visible; /* Instead of auto/scroll */
-    min-height: 100vh; /* At least full viewport height */
-}
-        .branch-card {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-        }
-        .concept-card {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-        }
-        .media-card {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
-        }
+    
+    .dropdown-open {
+        max-height: 5000px;
+        transition: max-height 0.8s ease-in;
+    }
+    
+    .definition-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .branch-card {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    }
+    
+    .concept-card {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    }
+    
+    .media-card {
+        background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+    }
+    
+    /* Fix MCQ container scrolling */
+    .mcq-container {
+        height: auto;
+        overflow: visible;
+    }
+    
+    /* Custom radio button styles */
+    input[type="radio"]:checked + label {
+        border-color: #3b82f6;
+        background-color: #eff6ff;
+    }
+    
+    input[type="radio"]:checked + label span:first-child {
+        border-color: #3b82f6;
+        background-color: #3b82f6;
+    }
+    
+    input[type="radio"]:checked + label span:first-child span {
+        background-color: white;
+    }
     </style>
 </head>
 <body class="bg-gray-100 min-h-screen">
