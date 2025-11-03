@@ -1,0 +1,37 @@
+{
+    "title": "8 Branches of Mathematics",
+    "branches": [
+        {
+            "name": "Logic",
+            "definition": "The study of principles of reasoning"
+        },
+        {
+            "name": "Arithmetic", 
+            "definition": "Methods for operating on numbers"
+        },
+        {
+            "name": "Algebra",
+            "definition": "Methods for working with unknown quantities"
+        },
+        {
+            "name": "Geometry",
+            "definition": "The study of size and shape"
+        },
+        {
+            "name": "Trigonometry",
+            "definition": "The study of triangles and their uses"
+        },
+        {
+            "name": "Probability",
+            "definition": "The study of chance"
+        },
+        {
+            "name": "Statistics",
+            "definition": "Methods for analyzing data"
+        },
+        {
+            "name": "Calculus",
+            "definition": "The study of quantities that change"
+        }
+    ]
+}

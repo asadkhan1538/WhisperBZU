@@ -1,0 +1,42 @@
+{
+    "title": "Logic & Critical Thinking",
+    "concepts": [
+        {
+            "name": "Logic",
+            "definition": "Logic is the study of the methods and principles of reasoning"
+        },
+        {
+            "name": "Argument",
+            "definition": "An argument uses a set of facts or assumptions, called premises, to support a conclusion"
+        },
+        {
+            "name": "Fallacy", 
+            "definition": "A fallacy is a deceptive argument—an argument in which the conclusion is not well supported by the premises"
+        },
+        {
+            "name": "Proposition",
+            "definition": "Propositions are statements that make (propose) a claim that may be either true or false. A proposition must have the structure of a complete sentence and must make a distinct assertion or denial.",
+            "example": "'7 + 9 = 2' is a proposition, even though false. 'Are you going?' is NOT a proposition."
+        },
+        {
+            "name": "Negation",
+            "definition": "The opposite of a proposition is called its negation. Negations are also propositions because they have complete sentence structure and may be true or false.",
+            "example": "Negation of 'Joan is sitting' is 'Joan is not sitting'"
+        },
+        {
+            "name": "And Statements (Conjunctions)",
+            "definition": "An 'and' statement is called a conjunction. The conjunction p and q is true only if p and q are both true.",
+            "example": "'Hard test AND got A' is true only if both are true"
+        },
+        {
+            "name": "Or Statements (Disjunctions)",
+            "definition": "A compound statement made with 'or' is called a disjunction. We assume inclusive 'or' - true if either/both propositions are true.",
+            "example": "Inclusive: 'illness or injury' covers both. Exclusive: 'soup or salad' means one choice."
+        },
+        {
+            "name": "If...Then Statements",
+            "definition": "Conditional propositions propose something true (then part) on condition something else is true (if part).",
+            "example": "'If politicians liars, then Smith liar'"
+        }
+    ]
+}

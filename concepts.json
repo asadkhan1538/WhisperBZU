@@ -1,0 +1,66 @@
+{
+    "title": "Key Concepts & Definitions",
+    "concepts": [
+        {
+            "name": "Statistics",
+            "definition": "Methods for analyzing data and drawing conclusions from numerical information"
+        },
+        {
+            "name": "Mean",
+            "definition": "The arithmetic average of a set of numbers - sum of all values divided by number of values",
+            "example": "For 2, 4, 6, 8: Mean = (2+4+6+8)/4 = 5"
+        },
+        {
+            "name": "Median", 
+            "definition": "The middle value in a set of numbers when arranged in numerical order",
+            "example": "For 1, 3, 5, 7, 9: Median = 5"
+        },
+        {
+            "name": "Mode",
+            "definition": "The value that appears most frequently in a data set",
+            "example": "For 2, 3, 3, 5, 7: Mode = 3"
+        },
+        {
+            "name": "Precision",
+            "definition": "Refers to the consistency and repeatability of measurements - indicates how close repeated measurements are to each other"
+        },
+        {
+            "name": "Accuracy", 
+            "definition": "Refers to how close a measurement is to the true or accepted value - indicates the correctness of a measurement"
+        },
+        {
+            "name": "Ratio",
+            "definition": "A comparison of two quantities by division - shows relative size of two quantities",
+            "example": "Ratio of boys to girls: 3:2"
+        },
+        {
+            "name": "Proportion",
+            "definition": "An equation that states that two ratios are equal - expresses equivalence of two ratios", 
+            "example": "2/4 = 1/2 is a proportion"
+        },
+        {
+            "name": "Probability",
+            "definition": "The study of chance and uncertainty - measures likelihood that event will occur (0=impossible to 1=certain)",
+            "example": "Probability of heads in coin flip: 0.5"
+        },
+        {
+            "name": "Equation",
+            "definition": "A mathematical statement showing equality of two expressions with equals sign",
+            "example": "2x + 3 = 7"
+        },
+        {
+            "name": "Average",
+            "definition": "A single value representing central tendency of a set of values - summarizes typical value in data set"
+        },
+        {
+            "name": "Angle",
+            "definition": "Geometric figure formed by two rays sharing common endpoint (vertex) - measured in degrees/radians",
+            "example": "Right angle = 90 degrees"
+        },
+        {
+            "name": "Quadrilateral", 
+            "definition": "Polygon with four sides and four angles - sum of interior angles is 360 degrees",
+            "example": "Squares, rectangles, parallelograms, trapezoids"
+        }
+    ]
+}

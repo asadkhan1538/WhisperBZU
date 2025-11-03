@@ -1,0 +1,35 @@
+{
+    "title": "Mathematics Definitions",
+    "definition": "The word mathematics is derived from the Greek word mathematikos, which means 'inclined to learn.' Literally speaking, to be mathematical is to be curious, open-minded, and interested in always learning more!",
+    "perspectives": [
+        "As the sum of its branches",
+        "As a way to model the world", 
+        "As a language"
+    ],
+    "misconceptions": [
+        {
+            "title": "Math requires a Special Brain",
+            "reality": "Mathematics is accessible to anyone willing to learn"
+        },
+        {
+            "title": "The Math in Modern Issues Is too complex", 
+            "reality": "Basic quantitative reasoning helps understand complex issues"
+        },
+        {
+            "title": "Math Makes you Less Sensitive",
+            "reality": "Math enhances logical thinking without reducing empathy"
+        },
+        {
+            "title": "Math Makes no allowance for creativity",
+            "reality": "Mathematics involves creative problem-solving"
+        },
+        {
+            "title": "Math Provides exact answers",
+            "reality": "Many mathematical models provide approximate answers"
+        },
+        {
+            "title": "Math Is Irrelevant to My Life",
+            "reality": "Math is used in daily life, arts, culture, and all professions"
+        }
+    ]
+}

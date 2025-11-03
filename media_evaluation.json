@@ -1,0 +1,25 @@
+{
+    "title": "Media Evaluation - 5 Steps",
+    "steps": [
+        {
+            "title": "Consider the source",
+            "description": "Is the source of the information clear? Does the source have credibility on this issue?"
+        },
+        {
+            "title": "Check the date", 
+            "description": "Can you determine when the information was written? Is it still relevant, or is it outdated?"
+        },
+        {
+            "title": "Validate accuracy",
+            "description": "Can you validate the information from other sources? Do you have good reason to believe it is accurate? Does it contain anything that makes you suspicious?"
+        },
+        {
+            "title": "Watch for hidden agendas",
+            "description": "Is the information presented fairly and objectively, or is it manipulated to serve some particular or hidden agenda?"
+        },
+        {
+            "title": "Don't miss the big picture",
+            "description": "Even if a piece of media information passes all the above tests, step back and consider whether it makes sense. For example, does it conflict with other things you think are true, and if so, how can you resolve the conflict?"
+        }
+    ]
+}
