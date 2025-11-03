@@ -27,10 +27,10 @@
         }
         /* Add this CSS to make the container scrollable */
 .mcq-container {
-    height: 400px; /* or your desired height */
-    overflow-y: auto;
-    border: 1px solid #ccc;
-    padding: 10px;
+    /* Remove fixed height and let content determine height */
+    height: auto; 
+    overflow-y: visible; /* Instead of auto/scroll */
+    min-height: 100vh; /* At least full viewport height */
 }
         .branch-card {
             background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
