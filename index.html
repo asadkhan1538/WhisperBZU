@@ -12,6 +12,12 @@
             overflow: hidden;
             transition: max-height 0.3s ease-out;
         }
+        @media (max-width: 768px) {
+    .mcq-container {
+        height: 300px;
+        font-size: 14px;
+    }
+        }
         .dropdown-open {
             max-height: 5000px;
             transition: max-height 0.8s ease-in;
@@ -19,6 +25,13 @@
         .definition-card {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
+        /* Add this CSS to make the container scrollable */
+.mcq-container {
+    height: 400px; /* or your desired height */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
         .branch-card {
             background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
         }
